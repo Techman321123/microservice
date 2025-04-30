@@ -1,0 +1,4 @@
+nohup: ignoring input
+[2025-04-30T14:04:32.087Z] info  code-server 4.99.3 c36b2d3edd1cc8db7cfc49f5bc55711e7c5ac928
+[2025-04-30T14:04:32.089Z] info  Using user-data-dir /home/ubuntu/.local/share/code-server
+[2025-04-30T14:04:32.097Z] error listen EADDRINUSE: address already in use 0.0.0.0:8082
